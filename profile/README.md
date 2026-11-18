@@ -11,10 +11,9 @@ that the contracts cap. Prismaport never holds the money and cannot redirect it.
 
 | Repository | What | Status |
 |---|---|---|
+| [prismaport](https://github.com/prismaport/prismaport) | The application: hosted checkout, merchant dashboard, landing page, developer portal, API contract and the Go server | Release 1.0.0, running at prismaport.com |
 | [prismaport-contracts-evm-v1](https://github.com/prismaport/prismaport-contracts-evm-v1) | The EVM contracts: deposit addresses, the fee and split rules, the signed-authorization gateway | Live on Base, source verified |
 | [prismaport-contracts-solana-v1](https://github.com/prismaport/prismaport-contracts-solana-v1) | The Solana program: PDA deposit addresses with the same fee and split rules | Release candidate, on devnet; not yet on mainnet |
-
-The application code (checkout, dashboard, API) is coming to this organization later.
 
 ## Security
 
